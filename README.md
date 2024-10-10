@@ -1,7 +1,7 @@
 Hey, my name is Apostolos Kozanitis 👋
 
 I am just about to graduate from my Master's degree in engineering and I am currently pursuing a bootcamp in data analytics . 
-I am developing my skills in  excel , Power BI , SQL and python daily and I am building data analytics projects that you can all see here in my repos.
+I am developing my skills in  excel , Power BI , Tableau, SQL and python daily and I am building data analytics projects that you can all see here in my repos.
 
 #Open to work as a Data Analyst ✨
 
