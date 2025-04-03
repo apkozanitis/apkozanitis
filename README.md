@@ -1,9 +1,9 @@
 ## Hey there!  My name is Apostolos Kozanitis 👋
 
-I am graduating from my Master's degree in engineering on March 2025 and I am passionate about data and analytics. 
+I graduated from my Master's degree in engineering on March 2025 and I am passionate about data and analytics. 
 I'm actively working on multiple data analytics projects using SQL, Excel, Tableau, Power BI, and Python. Feel free to explore my repositories to see my work in action!
 
-#Open to work as a Data Analyst in Central Europe ✨
+#Open to work as a Data Analyst/engineer in Prague ✨
 
 Check out also my Tableau public account here ➡︎ https://public.tableau.com/app/profile/apostolos.kozanitis
 
